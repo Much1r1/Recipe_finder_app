@@ -39,6 +39,9 @@ const FilterBar = ({
     "French",
     "Mediterranean",
     "American",
+    "African",
+    "Middle Eastern",
+    "Spanish",
     "Thai",
     "Japanese",
   ];
